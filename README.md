@@ -1,2 +1,7 @@
-# estrutura-dados-lingC
-Estudo de estrutura de dados em linguagem C
+# Estrutura de dados em linguagem C - Estudos
+  'Veículos' trata-se de uma implementação de uma lista encadeada de veículos em linguagem C. A estrutura de dados da lista é definida com nós contendo informações sobre um veículo, como marca, placa e ano. Oferece funcionalidades básicas para manipulação da lista de veículos. Essas funcionalidades incluem criação da lista, inserção de veículos no início, no final ou em uma posição específica, remoção de veículos por posição ou placa, verificação se a lista está vazia e exibição dos veículos presentes na lista.
+
+  'Arvore_binaria' oferece funcionalidades básicas para manipulação da árvore binária. Essas funcionalidades incluem criação da árvore, inserção de elementos, remoção de elementos, percurso em ordem (emordem), percurso pré-ordem (preordem), percurso pós-ordem (posordem), contagem de elementos, busca pelo maior e menor elemento, e localização de um elemento na árvore. É adequado para estudantes, desenvolvedores ou entusiastas interessados em aprender e praticar conceitos de Árvores Binárias de Busca em C.
+
+  'Grafo' oferece uma implementação básica de grafos em linguagem C, juntamente com algoritmos comuns utilizados em grafos, como busca em profundidade e busca em largura. A estrutura de dados de grafo é definida com vértices e arestas, permitindo a criação, inserção e remoção de vértices e arestas. Além disso, são fornecidas funções para imprimir o grafo, liberar a memória alocada e buscar vértices e arestas. A implementação disponibilizada neste projeto é simples e serve como ponto de partida para estudar e compreender os conceitos fundamentais dos grafos, bem como para a utilização de algoritmos básicos de busca. 
+  
